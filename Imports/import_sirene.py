@@ -10,10 +10,10 @@ with open('sirenerecode.csv', newline='') as csvfile:
         if "\"" in row[2] :  
             recode=row[2].replace("\"", " ")
             requete = "INSERT INTO SIRENE VALUES("
-            requete += "\""+row[0]+"\",\""+row[1]+"\",\""+row[24]+"\",\""+row[28]+"\",\""+recode+"\",\""+row[42]+"\")"
+            requete += "\""+row[0]+"\",\""+row[1]+"\",\""+row[2]+"\",\""+row[24]+"\",\""+row[27]+"\",\""+row[42]+"\")"
         else :
             requete = "INSERT INTO SIRENE VALUES("
-            requete += "\""+row[0]+"\",\""+row[1]+"\",\""+row[24]+"\",\""+row[28]+"\",\""+row[2]+"\",\""+row[42]+"\")"
+            requete += "\""+row[0]+"\",\""+row[1]+"\",\""+row[2]+"\",\""+row[24]+"\",\""+row[27]+"\",\""+row[42]+"\")"
         #print(requete)        
         c.execute(requete)
 conn.commit()
