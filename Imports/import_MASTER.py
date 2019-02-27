@@ -7,7 +7,9 @@ with open('dataBrutes_MASTER.csv', newline='') as csvfile:
     spamreader = csv.reader(csvfile, delimiter=';', quotechar='\"')
     for row in spamreader :
         requete = "INSERT INTO MASTER VALUES("
-        requete += "\""+row[0]+"\",\""+row[1]+"\",\""+row[2]+"\",\""+row[3]+"\",\""+row[4]+"\",\""+row[5]+"\",\""+row[6].upper()+"\",\""+row[7].upper()+"\")"
+        for i in range(8):
+              requete += "\""+row[i]+"\","
+        requete = requete[:-1] + ")"
         c.execute(requete)
 conn.commit()
 conn.close()
