@@ -10,7 +10,7 @@ with open('sirenerecode.csv', newline='') as csvfile:
         if "\"" in row[2] :  
             recode=row[2].replace("\"", " ")
             requete = "INSERT INTO SIRENE VALUES("
-            requete += "\""+row[0]+"\",\""+row[1]+"\",\""+row[2]+"\",\""+row[24]+"\",\""+row[27]+"\",\""+row[42]+"\")"
+            requete += "\""+row[0]+"\",\""+row[1]+"\",\""+recode+"\",\""+row[24]+"\",\""+row[27]+"\",\""+row[42]+"\")"
         else :
             requete = "INSERT INTO SIRENE VALUES("
             requete += "\""+row[0]+"\",\""+row[1]+"\",\""+row[2]+"\",\""+row[24]+"\",\""+row[27]+"\",\""+row[42]+"\")"
