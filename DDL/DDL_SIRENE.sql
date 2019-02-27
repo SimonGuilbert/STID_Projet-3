@@ -1,16 +1,12 @@
 
 
 CREATE TABLE SIRENE (
-code_entreprise TEXT,
-code_etablissement TEXT,
-departement TEXT,
-code insee TEXT,    --DEPET || COMET
-DEPET TEXT,
-COMET TEXT,
-NIC TEXT,
-enseigne TEXT,
-nom_etablissement TEXT,
-code_naf TEXT 
+SIREN TEXT, -- code entreprise
+NIC TEXT, -- code etablissement
+L1_normalisee TEXT, -- nom etablissement
+DEPET TEXT, -- departement
+COMET TEXT, -- commune
+APET700 TEXT -- code naf niveau 5
 );
 
 ALTER TABLE SIRENE ADD COLUMN CODE_INSEE TEXT;
