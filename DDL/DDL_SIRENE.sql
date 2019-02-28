@@ -1,13 +1,15 @@
+CREATE TABLE sirene(
+    SIREN TEXT,
+    NIC TEXT,
+    L1_NORMALISEE TEXT,
+    DEPET TEXT,
+    COMET TEXT,
+    ENSEIGNE TEXT,
+    APET700 TEXT,
+    NOMEN_LONG TEXT,
+    SIGLE TEXT
+    );
 
-
-CREATE TABLE SIRENE (
-SIREN TEXT, -- code entreprise
-NIC TEXT, -- code etablissement
-L1_normalisee TEXT, -- nom etablissement
-DEPET TEXT, -- departement
-COMET TEXT, -- commune
-APET700 TEXT -- code naf niveau 5
-);
 
 ALTER TABLE SIRENE ADD COLUMN CODE_INSEE TEXT;
 UPDATE SIRENE SET CODE_INSEE = DEPET || COMET WHERE DEPET IS NOT NULL AND COMET IS NOT NULL;
