@@ -8,8 +8,8 @@ with open('sirenerecode.csv', newline='') as csvfile:
     spamreader = csv.reader(csvfile, delimiter=';', quotechar='\"')
     for row in spamreader :
         requete = "INSERT INTO SIRENE VALUES("
-        requete += "\""+row[0]+"\",\""+row[1]+"\",\""+row[2].replace("\"", " ")+"\",\""+row[24]+"\",\""+row[27]+"\",\""+row[36]+"\",\""+row[42]+"\",\""+row[60]+"\",\""+row[61]+"\")"
-        #print(requete)        
+        requete += "\""+row[0]+"\",\""+row[1]+"\",\""+row[2].replace("\"", " ")+"\",\""+row[24]+"\",\""+row[27]+"\",\""+row[36].replace("\"", " ")+"\",\""+row[42]+"\",\""+row[60].replace("\"", " ")+"\",\""+row[61].replace("\"", " ")+"\")"
+        #print(requete)       
         c.execute(requete)
 conn.commit()
 conn.close()
