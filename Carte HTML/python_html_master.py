@@ -1,5 +1,6 @@
 import csv
-f = open('Leaflet_master.html', 'r+')
+import random
+f = open('Leaflet_MASTER.html', 'r+')
 f.write('''<html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -10,7 +11,6 @@ f.write('''<html>
  
     <body onload="initialize()">
     <div id="map" style="width:100%; height:100%"></div>
-
         
 <script>
     function initialize() {
@@ -22,14 +22,26 @@ f.write('''<html>
         });
         map.addLayer(osmLayer);
 ''')
-with open('jointure_MASTER.csv', newline = '') as csvfile:
+ville_prec = " " 
+with open('Jointure_MASTER.csv', newline = '') as csvfile:
     csvfile.readline()
     spamreader = csv.reader(csvfile, delimiter='|', quotechar='"')
     for row in spamreader:
-        if row[12] == "1":
-            f.write('L.marker(['+row[10]+','+row[9]+']).addTo(map).bindPopup('"\"<b>"+row[3]+'</b>,<br>'+row[12]+' étudiant'+"\""');' "\n")
-        else : 
-            f.write('L.marker(['+row[10]+','+row[9]+']).addTo(map).bindPopup('"\"<b>"+row[3]+'</b>,<br>'+row[12]+' étudiants'+"\""');' "\n")
+        if row[10] != "":
+            nom_entreprise = row[7]
+            if nom_entreprise == "":
+                nom_entreprise = "Inconnu"
+            #if row[9] == ville_prec :
+            lon = float(row[11]) + random.uniform(-0.02, 0.02)
+            lat = float(row[10]) + random.uniform(-0.02, 0.02)
+            lat = str(lat)
+            lon = str(lon)
+            f.write('L.marker(['+lat+','+lon+']).addTo(map).bindPopup('+'\"<b>'+row[9]+'</b>,<br>'+nom_entreprise+'\"'+');'+'\n')
+            #else :
+                #lon = row[11]
+                #lat = row[10]
+                #f.write('L.marker(['+lat+','+lon+']).addTo(map).bindPopup('+'\"<b>'+row[9]+'</b>,<br>'+nom_entreprise+'\"'+');'+'\n')
+            #ville_prec = row[9]
 
 f.write('''
     } 
