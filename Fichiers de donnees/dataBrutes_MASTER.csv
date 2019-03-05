@@ -3,4 +3,840 @@ code;type_diplôme;q6_7;q6_8;q6_9a;q6_9b;q6_9c;q6_14_6
 4;MASTER;4;7;75;;PARIS;HITRONETIC
 10;MASTER;2;10;75;;Paris;Ministère des Armées
 14;MASTER;5;13;75;;Paris;Paris & Compagnie
-
+15;MASTER;4;2;83;;toulon;Naval Group
+16;MASTER;1;5;31;;TOULOUSE;SF CONSULTING
+18;MASTER;4;7;95;;Saint Ouen L'aumone;merieux nutrisciences
+19;MASTER;5;7;13;;Marseille;Protisvalor
+22;MASTER;;2;13;;Gémenos;
+24;MASTER;4;12;75;;Paris;Eugen Systems
+25;MASTER;4;3;93;;pantin;UTD
+26;MASTER;4;7;13;;marseille;
+29;MASTER;4;4;44;;Nantes;SDVI
+36;MASTER;2;9;34;;AGDE;Ministère de l'Education Nationale
+37;MASTER;2;9;61;;Mortagne-au-perche;DSDEN
+38;MASTER;4;7;92;;Gennevilliers;Galitt
+39;MASTER;4;13;75;;Paris;ITW
+41;MASTER;2;9;14;;Fleury sur orne;Education nationale 
+43;MASTER;2;9;14;;Herouville ;Dsden14
+48;MASTER;4;11;14;;caen;groupe privé
+49;MASTER;2;9;14;;Caen;Université de caen
+50;MASTER;5;11;14;;Saint André sur orne;APAEI Caen
+52;MASTER;3;9;50;;CHERBOURG-EN-COTENTIN;CCIT NORMANDIE
+54;MASTER;2;11;61;;FLERS;CLIC du Bocage
+57;MASTER;4;2;14;;Vire;SAS Amand Gianic
+58;MASTER;1;11;61;;Argentan;MJPM
+60;MASTER;5;9;14;;Caen ;CFA PSS
+61;MASTER;1;12;14;;colombelles;Chacun Cherche Son Film
+63;MASTER;5;11;14;;VIMONT;Mutualité Française Normandie SAAM
+64;MASTER;4;7;99;137;Luxembourg;EUROCOST INTERNATIONAL S.A.
+65;MASTER;3;8;14;;caen;CRMA
+66;MASTER;5;11;50;;Cherbourg;ANSH
+73;MASTER;2;9;14;;Caen;education nationale
+79;MASTER;2;11;50;;saint-lô;hôpital mémorial france états unis saint lô
+80;MASTER;2;9;14;;Héouville st clair;Education nationale
+81;MASTER;2;11;14;;Caen;CHU de Caen
+82;MASTER;2;9;61;;Ferté-Macé;Lycée technologique et professionnel des Andaines
+83;MASTER;2;11;14;;Falaise;CH de falaise
+84;MASTER;2;11;14;;Vire;Centre hospitalier de Vire
+86;MASTER;2;11;50;;Saint-Lô;Centre Hospitalier
+88;MASTER;4;5;14;;Hérouville saint clair;Adventiel
+89;MASTER;5;11;61;;Alençon;UDAF 61
+91;MASTER;2;9;50;;saint-lô;education nationale
+96;MASTER;4;8;75;;Paris ;Génération conseil 
+98;MASTER;4;2;62;;Lens ;Matis technologie 
+99;MASTER;2;10;14;;Caen ;
+101;MASTER;2;11;14;;falaise;centre hospitalier de falaise 
+108;MASTER;5;11;76;;BIHOREL;CENTRE SOCIAL ETIENNE PERNET
+116;MASTER;2;12;14;;Caen;Musée des Beaux-Arts Musée de Normandie
+120;MASTER;4;5;14;;Caen;
+126;MASTER;4;4;75;;Paris;SYSTRA
+128;MASTER;4;13;94;;Le perreux sur marne;Viamédis
+129;MASTER;1;8;27;;BEAUMONT LE ROGER;ANNICK MALO
+130;MASTER;2;7;94;;Palaiseau;CNRS
+133;MASTER;2;10;74;;FILLINGES;CC4R
+137;MASTER;1;5;14;;Caen;Mon propre entreprise
+139;MASTER;2;4;99;341;DAKAR;KHOURY TRANSPORTS S.A
+145;MASTER;5;11;14;;Caen;Acahj
+147;MASTER;1;11;61;;FLERS;
+152;MASTER;4;11;27;;Pont Audemer;La maison familiale
+154;MASTER;4;2;27;;Val de reuil;JOHNSON and Johnson santé beauté France 
+155;MASTER;4;9;60;;chantilly;INFA
+157;MASTER;1;8;78;;Versailles;Facil'pme
+159;MASTER;2;9;14;;lisieux;LPO Paul Cornu Lisieux
+169;MASTER;3;9;14;;Saint Pierre sur Dives;Enseignement agricole
+173;MASTER;;;99;109;;
+178;MASTER;4;4;14;;Fleury-sur-Orne;
+188;MASTER;4;13;35;;Rennes;Capgemini TS
+189;MASTER;4;13;14;;Soliers;ASAD Normandie
+192;MASTER;2;11;50;;coutances;ccas de coutances epad constanciat
+193;MASTER;5;11;93;;rainicy;autei
+194;MASTER;5;11;14;;;apaei
+196;MASTER;3;2;44;;nantes;EDF
+198;MASTER;4;2;50;;conde sur vire;ELVIR SAS
+201;MASTER;4;3;99;248;Doha;aecom
+202;MASTER;4;2;61;;CALIGNY;FAURECIA
+203;MASTER;5;11;50;;Les Pieux;POLE SANTE OUEST COTENTIN - PLATEFORME TERRITORIALE D'APPUI NORD COTENTIN
+208;MASTER;3;11;50;;Avranches;CAF
+209;MASTER;4;6;93;;montreuil;Bnp paribas
+210;MASTER;5;11;14;;Caen;Assurance maladie
+212;MASTER;2;7;14;; Caen ;
+218;MASTER;2;9;99;243;HOCHIMINH VILLE (SAIGON);Ministere Vietnamien de l'Education et de la Formation.
+227;MASTER;4;2;99;350;Casablanca;OCID METAL
+243;MASTER;4;4;;;;
+246;MASTER;4;13;14;;Caen;ARMATIS
+247;MASTER;6;13;99;131;Bruxelles;Wilmer Cutler Pickering Hale and Dorr LLP
+250;MASTER;4;6;14;;Caen;Crédit agricole normandie
+251;MASTER;4;7;75;;Paris;Senelis
+259;MASTER;4;6;35;;rennes;btp banque
+261;MASTER;4;6;33;;Bordeaux;BTP Banque
+262;MASTER;4;6;78;;Saint-Quentin-en-Yvelines ;Caisse d'Epargne
+268;MASTER;5;13;50;;SAINT LO;Union Patronale Medef Manche
+270;MASTER;5;11;50;;Saint Lô;APEI Centre Manche
+272;MASTER;4;4;14;;CAEN;INTERSPORT
+273;MASTER;2;10;76;;Dieppe;DGDDI
+274;MASTER;3;8;76;;le havre ;office de l'habitat
+275;MASTER;2;11;14;;caen;centre communal d'action sociale
+278;MASTER;2;9;99;350;Casablanca;AEFE
+280;MASTER;4;1;50;;Carentan;Mer et Terroirs
+281;MASTER;4;6;59;;cambrai;Crédit mutuel nord europe
+286;MASTER;1;6;14;;Caen;Gérald Pénitot
+289;MASTER;5;11;49;;angers;fedération ADMR
+290;MASTER;4;4;76;;Rouen;Cnp
+291;MASTER;5;11;29;;Brest;association donbosco
+293;MASTER;5;9;14;;hérouville saint clair;
+294;MASTER;4;13;14;;Cormelles le royal;Deca propreté
+300;MASTER;5;9;14;;hérouville;institut de formation
+301;MASTER;3;9;14;;caen;afpa
+303;MASTER;4;5;91;;LES ULIS;SFR BUSINESS
+304;MASTER;4;2;85;;L'ile d'elle;Huhtamaki
+305;MASTER;4;4;29;;BREST;MORLENN EXPRESS-compagnie maritime nantaise
+306;MASTER;5;11;14;;IFS;APAJH14
+307;MASTER;5;8;75;;paris;apagl
+312;MASTER;4;8;61;;Alençon;Anonyme
+314;MASTER;2;6;97;;Vietnam;
+318;MASTER;5;11;61;;L'AIGLE;associative
+321;MASTER;4;13;14;;Caen;ESI Group
+324;MASTER;4;2;59;;wasquhal;Molnlycke healthcare
+327;MASTER;4;4;73;;Chambéry;Transdeve
+329;MASTER;5;11;69;;LYON;
+332;MASTER;5;7;75;;Paris;Unicancer
+334;MASTER;5;9;14;;Caen;UIMM
+335;MASTER;3;8;14;;Caen;CRMA NORMANDIE 
+336;MASTER;4;5;14;;Fleury sur orne;Alticap
+337;MASTER;5;11;14;;;
+340;MASTER;4;13;14;;Lisieux;Tps Antoine
+341;MASTER;4;2;14;;Falaise;QOVANS
+348;MASTER;4;5;27;;La baronnie;phénix.info
+349;MASTER;4;2;27;;verneuil sur havre;page personnelle
+352;MASTER;6;13;56;;Lorient ;flg formation et audit 
+353;MASTER;2;10;35;;st malo;iut de st malo
+384;MASTER;4;13;99;350;CASABLANCA;SOTAFIP
+398;MASTER;4;2;99;350;Casablanca ;Schiele maroc
+414;MASTER;2;9;75;;PARIS;Lycée technique privé Jules Richard
+419;MASTER;4;7;31;;Toulouse;Altran
+425;MASTER;2;9;14;;Caen;
+426;MASTER;4;13;64;;bayonne;DDEC 64 
+427;MASTER;2;10;75;;Paris;DGCCRF
+428;MASTER;5;11;64;;Oloron sainte Marie;Itep Les Events
+429;MASTER;2;10;17;;Saintes;EPTB Charente
+433;MASTER;4;13;33;;Merignac;Capgemini
+436;MASTER;5;9;16;;Angoulême;ARFISS
+440;MASTER;2;9;33;;Bordeaux;Rectorat de Bordeaux
+441;MASTER;1;13;27;;Verneuil sur avre ;Eco confort
+442;MASTER;4;5;14;;Caen;Highfive
+443;MASTER;6;9;14;;honfleur;notre dame st joseph
+447;MASTER;2;10;50;;Saint-hilaire harcouet;mairie de Saint-hilaire harcouet
+449;MASTER;4;1;49;;Thouarce ;Coopérative agricole du Pays de Loire (CAPL) 
+451;MASTER;4;4;75;;Paris;Hoanen
+453;MASTER;2;9;14;;caen;Université de Caen Normandie
+454;MASTER;4;5;14;;Caen ;Sap
+456;MASTER;4;13;14;;colombelles;polle tes
+460;MASTER;2;9;14;;Giberville;Rectorat Caen
+461;MASTER;2;9;61;;Argentan ;
+470;MASTER;4;2;72;;Cherré (Sarthe);Groupe Bigard
+472;MASTER;2;9;61;;Flers;
+473;MASTER;5;11;14;;Caen;Centre de guidance parentale
+479;MASTER;4;4;14;;hérouville saint clair;menway
+481;MASTER;2;9;14;;Herouville saint Clair;Rectorat
+483;MASTER;4;6;72;;LE MANS;
+486;MASTER;2;9;35;;Rennes;éducation nationale
+491;MASTER;3;13;92;;Puteaux;Enedis
+492;MASTER;2;13;6;;Nice;
+495;MASTER;2;9;50;;Saint-Lô;Ecole maternelle Institut St-Lô
+502;MASTER;5;9;61;;Trun;maison familiale rurale Trun-Argentan
+504;MASTER;4;6;14;;Caen;LCV Développement 
+505;MASTER;5;8;61;;Alencon;CIST 61
+506;MASTER;4;4;14;;caen;armatis lc
+507;MASTER;4;2;95;;Argenteuil;Kubota 
+510;MASTER;4;4;14;;IFS 14123;Leclerc
+513;MASTER;3;2;53;;Laval;Chambre de commerce de Mayenne 
+522;MASTER;5;8;86;;Poitiers;association régionale des organismes sociaux pour l'habitat en Poitou Charentes
+529;MASTER;4;4;14;;Le Molay-Littry;Café de Paris
+533;MASTER;2;10;50;;Cherbourg en Cotentin;Fonction Publique Territoriale
+534;MASTER;4;7;50;;Cherbourg-en-Cotentin;Sogeti France, SA
+538;MASTER;4;5;35;;Rennes;Capgemini
+541;MASTER;2;11;14;;CAEN;inserm
+543;MASTER;4;4;14;;colombelles;Webhelp
+545;MASTER;4;13;14;;SAINT CONTEST;FIDEIS CONSULTANTS
+546;MASTER;4;7;14;;mondeville;geotech
+547;MASTER;2;9;14;;CONDE SUR NOIREAU;EDUCATION NATIONALE
+550;MASTER;4;2;14;;;
+552;MASTER;4;4;35;;Rennes ;ZD SERVICE
+554;MASTER;2;9;69;;Vaulx-en-velin ;Collège 
+556;MASTER;4;4;14;;Rots;Chivot Motoculture Loisirs 
+557;MASTER;4;2;76;;Fecamp;TRAITEUR DE PARIS
+558;MASTER;4;4;99;132;York;Costcutter
+560;MASTER;4;6;92;;Paris;BforBank
+562;MASTER;4;4;22;;saint brieuc;carrefour
+563;MASTER;5;11;75;;Paris;UNAF
+566;MASTER;4;7;14;;Caen;Business & Decision
+568;MASTER;2;9;61;;Mortagne-au-perche;
+570;MASTER;4;6;14;;caen;credut agricole
+571;MASTER;4;11;35;;Rennes;Centre Eugène Marquis
+574;MASTER;2;9;97;;MAMOUDZOU;C.I.O de Mamoudzou
+578;MASTER;2;10;75;;Paris;Ministère de la justice
+581;MASTER;4;6;50;;Saint Malo;
+584;MASTER;4;2;61;;GACE;
+585;MASTER;2;9;14;;caen;l'éducation nationale
+588;MASTER;2;9;61;;la serté macé;l'éducation nationale
+591;MASTER;2;9;50;;Villedieu les poêles ;Éducation nationale 
+595;MASTER;5;7;75;;Paris;Intergroupe Francophone de Cancérologie Thoracique 
+596;MASTER;4;4;94;;Saint Maur des fossées;Mc Donald's
+597;MASTER;5;13;14;;Hérouville saint clair;GRAPE
+599;MASTER;1;7;14;;Hérouville Saint Clair;APJ graphcf
+601;MASTER;4;8;99;401;Montréal ;Groupe Fed
+606;MASTER;2;10;51;;Châlons en Champagne;Région Grand Est 
+607;MASTER;4;2;50;;Saint lo;Agrial
+609;MASTER;4;2;50;;Saint-Lo;Lecapitaine industrie
+613;MASTER;2;9;50;;Beaumont-Hague;Education Nationale
+614;MASTER;4;7;14;;Colombelles;SoyHuCe
+615;MASTER;2;9;14;;Luc sur mer;Université Caen Normandie
+617;MASTER;4;6;75;;Paris;Wolters Kluwer Financial Services France
+619;MASTER;2;10;91;;ivry sur seine;ecpad
+620;MASTER;2;7;75;;Paris;APHP
+624;MASTER;2;9;27;;Evreux;Lycee Modeste Leroy
+626;MASTER;2;9;50;;torigny sur vire ;Le collège Albert Camus 
+633;MASTER;2;9;35;;Rennes;Buisness unit
+634;MASTER;2;9;14;;caen;Normandie université
+635;MASTER;5;13;50;;Condé sur Vire;Association Bien Vivre Ensemble
+636;MASTER;2;9;97;;mamoudzou;education nationale
+637;MASTER;2;9;61;;La Ferté-Macé;Lycée professionnel Flora-Tristan
+639;MASTER;2;10;61;;Pin-au-Haras;Haras du Pin
+643;MASTER;4;13;44;;Nantes;Eurofins Scientific
+644;MASTER;5;11;14;;Epron;Mutualité Française Normandie
+645;MASTER;2;9;33;;LIBOURNE;marguerite duras
+646;MASTER;2;10;50;;Bretteville;LA MAIRIE
+648;MASTER;4;12;75;;Paris;Centre ville Télévision
+649;MASTER;4;4;99;116;PRAGUE;
+650;MASTER;4;6;59;;Lille;Bnp Paribas 
+652;MASTER;4;9;61;;l'aigle;le diocèse de Seéz
+657;MASTER;4;2;72;;Sable sur sarthe;Ldc
+658;MASTER;4;13;44;;Nantes;Soprasteria
+659;MASTER;6;8;99;501;Armidale;Forsyths 
+660;MASTER;4;7;61;;Argentan;Mekalab
+661;MASTER;4;5;92;;Nanterre;
+664;MASTER;1;6;61;;Alençon;Le conservateur
+666;MASTER;2;10;14;;Deauville;Ville de Deauville
+667;MASTER;4;1;50;;Saint Vaast la Hougue;Huitrière de Normandie
+669;MASTER;4;5;92;;Sèvres;AUSY
+671;MASTER;4;1;14;;Saint Manvieu Norrey;UNION EVOLUTION SAS
+673;MASTER;4;2;33;;Cestas;Lectra
+674;MASTER;2;9;60;;cauffry;l'éducation nationale
+681;MASTER;5;11;44;;COUERON;association des poles de maison de santé des pays de la loire
+682;MASTER;2;9;91;;Saint Michel sur orge;Éducation nationale
+683;MASTER;4;6;95;;l'isle adam;Bnp paribas
+685;MASTER;4;13;61;;La ferté macé ;
+691;MASTER;2;9;44;;Nantes;Université de Nantes
+694;MASTER;;;50;;cherbourg;
+695;MASTER;2;9;61;;Boucé;Education Nationale
+698;MASTER;4;10;92;;Villeneuve la Garenne;Mairie Villeneuve la Garenne
+699;MASTER;4;6;92;;La Défense ;Allianz France 
+700;MASTER;4;7;35;;Rennes;Société GRAHAL (Grouper de Recherches Art Histoire Archéologie Littérature)
+706;MASTER;4;2;76;;Rouen;Abylsen SIGMA
+707;MASTER;4;4;14;;Mondeville;Carrefour
+708;MASTER;5;;14;;Caen ;Bande de Sauvages
+709;MASTER;2;10;75;;Montreuil sous Bois;EPAF
+710;MASTER;4;2;14;;Caen;
+713;MASTER;5;11;14;;Caen;
+714;MASTER;4;6;14;;bayeux;SOFICOM
+715;MASTER;2;9;27;;Harcourt ;
+717;MASTER;4;4;14;;Mondeville;SPS FILETS
+721;MASTER;4;7;92;;Colombes;Safran Aircraft Engines
+726;MASTER;2;9;93;;Rosny sous bois ;Ministère de l'éducation nationale 
+731;MASTER;4;13;14;;Hérouville;KPMG
+732;MASTER;2;9;76;;Le Havre;Education nationale
+733;MASTER;4;7;69;;Ecully;Centum Adetel
+739;MASTER;2;9;14;;Condé sur noireau;
+740;MASTER;4;6;14;;Caen;Univers PAiE
+741;MASTER;2;9;61;;aube;l'éducation nationale
+743;MASTER;2;9;77;;Tournan-en-Brie;
+744;MASTER;4;12;85;;Noirmoutier en l'île;Sealand
+747;MASTER;4;2;75;;Paris;
+749;MASTER;2;10;22;;Lamballe;Ville de Lamballe
+750;MASTER;4;4;35;;St Malo;Groupe Beaumanoir
+752;MASTER;4;13;93;;Aubervilliers;Charlestown
+756;MASTER;4;13;75;;Paris;Perle d'histoire
+758;MASTER;2;10;14;;Cormelles le Royal;Mairie de Cormelles le Royale
+761;MASTER;4;5;75;;Paris;Adobe stock
+765;MASTER;4;6;61;;Argentan;Suit&co 
+768;MASTER;3;10;14;;Caen;Caen Normandie Développement
+769;MASTER;4;6;92;;Courbevoix;hn service
+771;MASTER;2;9;93;;Epinay sur Seine ;Lycee Jacques Feyder
+772;MASTER;4;13;14;;Caen;ACCA
+775;MASTER;4;4;27;;EVREUX;POWERSPORT
+782;MASTER;4;6;75;;Paris;SNABTP
+784;MASTER;4;6;37;;Tours;crédit lyonnais
+789;MASTER;2;9;91;;Etampes;Education nationale
+791;MASTER;2;9;28;;Anet;Rectorat d'Orléans-Tours
+797;MASTER;2;9;59;;Douai;Education nationale
+803;MASTER;6;6;50;;Saint-Lô;
+807;MASTER;4;6;14;;Caen;Crédit agricole normandie
+810;MASTER;2;9;93;;Bagnolet;Education nationale
+811;MASTER;4;1;50;;Conde Sur Vire;Sogeps
+813;MASTER;4;9;14;;Vire;Cfa vire
+815;MASTER;2;9;44;;;
+817;MASTER;5;11;61;;Alençon;Adapei de l'Orne
+818;MASTER;4;7;69;;Lyon;Metis reseaux 
+822;MASTER;2;9;61;;Alençon;Education Nationale
+823;MASTER;4;6;75;;Paris;Crédit agricole
+825;MASTER;4;10;44;;Nantes;Key consulting
+826;MASTER;4;6;50;;Granville;Co Pilotes
+828;MASTER;5;11;99;324;Brazzaville;Programme Alimentaire Mondial
+830;MASTER;4;7;14;;CAEN;CRAHAM
+831;MASTER;4;2;92;;Gennevilliers;EXIDE TECHNOLOGIES SAS
+832;MASTER;4;2;49;;Cholet;Thales Communications & Security
+833;MASTER;4;6;50;;Avranches ;Caisse d'epargne Normandie
+835;MASTER;2;13;76;;Havre;la communauté d'agglomération du havre
+836;MASTER;5;13;35;;Montfort sur Meu;Fédération ADMR d'Ille et Vilaines
+840;MASTER;4;6;61;;Sees;Credit Agricole Normandie 
+842;MASTER;4;11;14;;Caen;Polyclinique du parc
+845;MASTER;2;10;61;;TRUN;Mairie de Trun 
+847;MASTER;2;9;10;;TROYES;EDUCATION NATIONALE
+848;MASTER;5;8;75;;PARIS;Positive planet France
+849;MASTER;5;11;44;;Nantes;
+853;MASTER;4;4;27;;Le Neubourg;
+855;MASTER;5;11;61;;Mortagne au Perche;Mission Locale L'Aigle Mortagne au Perche
+858;MASTER;4;6;61;;Argentan;SAS siteco
+863;MASTER;4;4;14;;Evrecy;Dessert innovation
+864;MASTER;2;10;38;;Grenoble;Direction Départementale des Territoire de l'Isère
+867;MASTER;4;4;14;;Le Mollaylittry;Leroulley
+868;MASTER;5;11;50;;AVRANCHES;En terre d'asile
+869;MASTER;4;6;50;;SAINT LO;BNP Paribas
+871;MASTER;6;11;50;;Equeurdreville hainneville;Pharmacie auzou
+874;MASTER;1;5;14;;caen;Florine Fernandes
+876;MASTER;2;10;75;;Paris;Université Pierre et Marie Curie
+881;MASTER;2;1;14;;Caen;Agence de Services et de paiement
+882;MASTER;2;9;14;;caumont l'éventé;l'éducation nationale
+885;MASTER;7;;99;136;Lirerick;
+892;MASTER;2;10;76;;Le havre ;Groupe hospitalier du Havre 
+894;MASTER;4;5;92;;Surennes;SMC
+902;MASTER;4;6;35;;Rennes;PWC
+904;MASTER;4;2;50;;Avranches;Mulann Industries
+905;MASTER;4;7;35;;Rennes (Cesson-Sévigné);Capgemini
+906;MASTER;4;13;14;;caen;GSI informatique
+907;MASTER;4;2;67;;Obernai ;Hager électro sas 
+910;MASTER;2;7;69;;Lyon;Métropole de Lyon 
+913;MASTER;4;4;14;;;
+914;MASTER;5;11;61;;Saint Georges des Groseillers;ADAPEI 61
+920;MASTER;5;9;50;;Querqueville;Centre Education Insertion - Association ABISH
+925;MASTER;4;4;14;;Blainville sur orne;Sas blainvidis
+927;MASTER;4;2;27;;Verneuil sur avre;Yabon
+932;MASTER;2;10;50;;Cherbourg;Conseil Départemental de la Manche
+937;MASTER;4;11;14;;CAEN;
+939;MASTER;2;11;14;;caen;Chu de caen
+940;MASTER;4;7;91;;villevon sur yvette;Wessling
+941;MASTER;2;9;50;;saint lô;l'éducation nationale
+943;MASTER;4;5;44;;Nantes;KNP Labs
+944;MASTER;2;9;14;;Deauville;Lycée professionnel St Joseph
+945;MASTER;4;13;75;;Paris;
+946;MASTER;4;4;14;;Saint désir;/
+948;MASTER;4;6;75;;Paris ;LCL 
+953;MASTER;4;4;50;;Valognes;Leclerc Valognes
+954;MASTER;2;9;50;;Cherbourg-en-Cotentin;
+955;MASTER;2;9;50;;Périers ;Collège
+956;MASTER;2;9;61;;Nocé;
+959;MASTER;1;;50;;Pontorson;Mon nom propre (statut micro-entrepreneur)
+960;MASTER;5;11;14;;Saint Germain de vasson;Ligue de l'enseignement de Normandie
+961;MASTER;5;11;14;;caen;acjm
+963;MASTER;1;13;50;;Cherbourg;
+964;MASTER;4;2;50;;Sottevast;Maîtres laitiers
+965;MASTER;4;1;61;;Chapelle d'Andaine;SNV
+968;MASTER;4;4;14;;Caen;Lidl 
+970;MASTER;5;11;14;;Caen;Rbn  sep
+974;MASTER;4;6;76;;Rouen;AXA
+977;MASTER;2;9;14;;Blangy le château ;Éducation nationale 
+978;MASTER;2;9;78;;Porcheville;Education nationale
+981;MASTER;4;6;75;;Paris;Morgan Stanley
+982;MASTER;2;9;14;;Dozulé;Collège Louis Pergaud de Dozulé
+983;MASTER;4;1;35;;HIREL;
+987;MASTER;2;10;56;;Plescope;mairie de Plescope
+989;MASTER;4;8;14;;Caen;
+991;MASTER;;9;50;;;
+993;MASTER;2;10;10;;piney;Parc naturel régional de la Forêt d'Orient - Syndicat Mixte d'aménagement et de gestion
+998;MASTER;2;9;77;;Montereau-Fault-Yonne;Education nationale
+999;MASTER;4;4;14;;CAEN;SQUARE HABITAT
+1001;MASTER;5;13;61;;flère;Trajectio
+1010;MASTER;4;8;50;;Cherbourg;KPMG
+1017;MASTER;4;1;37;;Joué les tours;ADEV ENVIRONNMENT
+1018;MASTER;2;13;50;;Villedieu les poêles ;Centre aquatique villedieu intercom
+1020;MASTER;4;7;14;;Ducy sainte marguerite;Scea
+1021;MASTER;4;1;44;;nantes;EuroSins
+1022;MASTER;2;9;;;;
+1030;MASTER;2;9;14;;Saint Pierre sur dives;Education nationale
+1031;MASTER;2;9;14;;Saint Martin de Mailloc;Education Nationale
+1032;MASTER;2;9;61;;La ferte Macé;Éducation nationale
+1033;MASTER;5;11;14;;CAEN;Citim
+1035;MASTER;2;9;14;;Cormelles le royal;l'éducation nationale
+1037;MASTER;4;;14;;Caen ;MAE 50
+1038;MASTER;2;;51;;Reims;
+1040;MASTER;4;1;33;;bassens;sarl agrin
+1042;MASTER;2;9;93;;Pantin;Education nationale 
+1043;MASTER;4;2;14;;Blainville sur Orne;Volvo Group
+1044;MASTER;5;13;84;;Le Pontet;Fédération ADMR
+1046;MASTER;4;4;14;;Condé-sur-noireau;laboratoires Cotral
+1049;MASTER;2;9;61;;Alençon;Education nationale
+1053;MASTER;4;2;14;;Conde sur noireau;
+1054;MASTER;2;9;50;;cherbourg;
+1056;MASTER;2;7;14;;Caen;Université de caen
+1060;MASTER;2;10;14;;Honfleur;Mairie de Honfleur 
+1061;MASTER;4;4;14;;Fleury-sur-Orne;Axeos
+1062;MASTER;2;9;76;;Le havre;
+1064;MASTER;5;11;50;;Cherbourg;ACAIS
+1065;MASTER;4;2;14;;Giberville;GROUPE MAITRES LAITIERS DU COTENTIN
+1069;MASTER;4;7;44;;Nantes;G2C territoire
+1072;MASTER;4;2;75;;PARIS;REDBIRD
+1073;MASTER;2;7;59;;Lille;CNRS
+1076;MASTER;4;2;50;;Lessay;Florette France GMS
+1078;MASTER;4;3;50;;tourlaville;vinci construction - vtp
+1080;MASTER;2;9;14;;MONDEVILLE;collège guy liard mondeville
+1082;MASTER;2;11;14;;Cricqueboeuf;Centre hospitalier de la côte fleurie
+1084;MASTER;5;11;14;;Vire;Association l’Etape
+1085;MASTER;2;9;61;;Vingt-Hanaps;Ministère de l'Education Nationale
+1086;MASTER;4;4;61;;Magny-Le-Désert;ITM LAI
+1090;MASTER;4;5;38;;grenoble;avisto telecom
+1091;MASTER;4;11;14;;Caen;Korian
+1094;MASTER;4;2;93;;Aulnay-Sous-Bois;FB SOLUTION (Groupe Le Duff)
+1096;MASTER;2;9;61;;Saint Symphorien des Bruyères;
+1107;MASTER;2;9;61;;Mortagne au perche;Education nationale
+1112;MASTER;2;9;61;;la sauvagère;l'éducation nationale
+1117;MASTER;4;9;99;122;VARSOVIE;trampoline école
+1118;MASTER;2;9;14;;Vires;Lycée Marie Curie
+1119;MASTER;4;6;14;;Bayeux ;LCL 
+1123;MASTER;2;9;14;;Conde sur noireau;Rectorat Caen - Ministère éducation nationale 
+1124;MASTER;2;9;14;;Bayeux;Education Nationale
+1125;MASTER;2;9;14;;Ablon;Education nationale
+1127;MASTER;4;4;75;;Paris;
+1131;MASTER;4;2;14;;Caen;Financière Batteur
+1133;MASTER;5;11;14;;Bayeux;Association Les Compagnons
+1136;MASTER;4;7;49;;Saint-Mathurin sur Loire;AEPE-Gingko (Bureau d'étude)
+1139;MASTER;4;6;14;;Caen;Bred
+1140;MASTER;2;9;2;;chauny;la fonction publique
+1142;MASTER;5;12;93;;Bagnolet;Paris 2018
+1144;MASTER;4;6;75;;Paris;
+1148;MASTER;4;13;14;;Mondeville;Carrefour
+1150;MASTER;4;11;14;;Saint pierre en auge;Association vie et partage
+1155;MASTER;4;5;14;;Caen;Business & decision
+1156;MASTER;6;7;14;;carpiquet;SELARL CAP JURIS
+1157;MASTER;4;8;50;;Saint-Lô FRANCE;CERFRANCE NORMANDIE OUEST
+1159;MASTER;1;13;44;;Nort-sur-Erdre;ferey aurélien
+1162;MASTER;4;4;76;;Rouen;Rexcel
+1167;MASTER;4;7;76;;Ymare;AUSY
+1171;MASTER;2;9;61;;ARGENTAN;
+1173;MASTER;2;9;61;;Gacé;Education nationale
+1174;MASTER;2;10;85;;La roche sur yon ;Ville la roche sur yon
+1176;MASTER;4;6;61;;Argentan;Crédit Agricole
+1185;MASTER;2;9;14;;Ifs;Université du Maine
+1186;MASTER;5;11;75;;PARIS;Fédération Nationale des Jardins Familiaux et Collectifs
+1194;MASTER;4;6;61;;Valencon;In expenso
+1195;MASTER;5;11;14;;Caen ;CAO 2choseslune 
+1198;MASTER;2;9;14;;Bretteville sur Laize;Ministère de l'Education Nationale
+1199;MASTER;4;1;14;;Caen;Agrial coopérative agricole
+1200;MASTER;4;13;14;;Touques;Lawn Tennis marketing 
+1201;MASTER;2;9;50;;Saint Fromond ;Éducation nationale 
+1203;MASTER;4;2;14;;;
+1204;MASTER;2;7;60;;Creil;Police nationale
+1207;MASTER;2;9;92;;ASNIERES sur Seine ;Éducation Nationale 
+1208;MASTER;2;9;50;;Villedieu ;Éducation nationale 
+1209;MASTER;4;6;50;;cherbourg;credit agricole
+1211;MASTER;4;3;76;;le havre;groupe legendre
+1212;MASTER;4;4;50;;AGNEAUX;NOYON TRANSPORT
+1214;MASTER;2;10;14;;Colombelles;Mairie
+1217;MASTER;2;9;50;;Parigny;Education Nationale
+1218;MASTER;4;6;50;;Avranches;ad valoris
+1220;MASTER;4;7;92;;Nanterre;SOPRA speira
+1223;MASTER;2;10;2;;Saint-Quentin;Agglomération du Saint-Quentinois
+1226;MASTER;2;9;61;;;l'éducation nationale
+1227;MASTER;4;6;92;;Neuilly-sur-Seine ;SNR AUDiT
+1234;MASTER;1;10;14;;Caen;CALéI
+1236;MASTER;4;4;14;;Falaise;SAS SODISFAL E LECLERC Falaise
+1237;MASTER;5;11;50;;cherbourg;MEF du Cotentin
+1238;MASTER;4;13;50;;Cherbourg;Capgemini
+1240;MASTER;2;9;22;;ros trenen;l'éducation nationale
+1241;MASTER;2;10;53;;Loiron;Communautéde Communes du Pays de Loiron
+1243;MASTER;4;5;14;;CAEN;SII
+1244;MASTER;2;9;50;;quineville;education nationale
+1247;MASTER;5;11;61;;Flers;ADAPEI 61
+1248;MASTER;4;6;14;;caen;credit du nord
+1249;MASTER;2;10;75;;Paris;Ministère de l'intérieur
+1250;MASTER;4;8;14;;caen;unica
+1251;MASTER;3;13;61;;Flers;Office Public de l'Habitat
+1252;MASTER;4;4;14;;Carpiquet;CSC
+1253;MASTER;4;8;14;;Caen ;Groupe fidorg
+1254;MASTER;4;4;14;;calvados et orne ;Laboratoire cotral 
+1255;MASTER;4;2;50;;st lo;easybike
+1257;MASTER;2;9;59;;avesnes les aubert;recotrat de Lille
+1258;MASTER;4;2;14;;Caen;
+1259;MASTER;5;6;14;;caen;normandie active
+1260;MASTER;4;7;50;;CHERBOURG-EN-COTENTIN;SCHILO SAS
+1261;MASTER;2;9;14;;Le Bény-Bocage;Education Nationale
+1262;MASTER;5;11;14;;herouville st clair;IRTS
+1264;MASTER;4;4;61;;b;
+1265;MASTER;4;2;14;;Bavent;
+1266;MASTER;2;9;50;;Brécey;éducation nationale
+1267;MASTER;5;12;14;;Caen;Le Marchepied
+1269;MASTER;6;11;92;;Neuilley sur Seine;Hôpital américain
+1270;MASTER;4;1;14;;Collombelles;coop de france
+1282;MASTER;4;11;14;;balleroy;domidep
+1283;MASTER;4;7;14;;Deauville;Jacomo 
+1284;MASTER;4;4;14;;Ouistreham ;Bai
+1290;MASTER;2;9;69;;Lyon ;Lycée Lacassagne 
+1293;MASTER;5;11;50;;Saint Lô;Fondation  Bon Sauveur de la Manche
+1294;MASTER;2;11;33;;Bordeaux;CHU BORDEAUX
+1295;MASTER;2;9;78;;Mantes-la-Jolie;ministère de l'éducation nationale 
+1296;MASTER;5;11;14;;Caen;RBN-SEP
+1298;MASTER;2;11;14;;Caen;EPSM de Caen
+1299;MASTER;4;13;72;;Le mans;Apef Services Le Mans 
+1300;MASTER;4;;75;;Paris;
+1303;MASTER;4;9;14;;Caen;
+1307;MASTER;4;11;14;;Caen;Baclès
+1308;MASTER;4;5;99;140;Genève ;blue-infinity
+1317;MASTER;4;1;14;;LIVAROT;graindorge lactalis
+1320;MASTER;4;7;61;;Argentan ;
+1323;MASTER;4;4;14;;Caen;Supplay
+1324;MASTER;4;11;14;;Caen;l'assurance maladie du Calvados
+1325;MASTER;4;3;56;;pluleret;Adecco breizh
+1331;MASTER;4;11;92;;SURESNES;les laboratoires servier
+1332;MASTER;2;1;61;;Le Pin au haras;Institut Français du Cheval et de l'équitation
+1337;MASTER;2;8;14;;MONDEVILLE;GRETA
+1338;MASTER;2;9;27;;Gaillon;Education Nationale
+1341;MASTER;4;2;14;;caen;
+1345;MASTER;4;9;61;;Sées  (61);Lycée privé Marie Immaculée à  SEES
+1346;MASTER;5;1;14;;Cagny;Syndicat des planteurs betteravier
+1347;MASTER;4;4;44;;;HESUOCAR
+1348;MASTER;4;7;92;;Rueil malmaison;Seres technologies
+1349;MASTER;2;9;60;;beauvais;l'éducation nationale
+1350;MASTER;4;3;92;;Malakoff;Axione
+1352;MASTER;4;13;53;;Changé ;Maisons Et Services 
+1353;MASTER;4;12;14;;Caen;Mias medi
+1355;MASTER;4;5;14;;caen;ZEPHYR-WEB
+1356;MASTER;5;11;50;;Cherbourg;Fondation du Bon Sauveur de la Manche
+1357;MASTER;4;7;75;;PARIS;UiPath SRL
+1358;MASTER;4;4;14;;fleury sur orne;terres et eaux
+1360;MASTER;2;9;50;;Leteil et Gonneville;education nationale
+1362;MASTER;4;6;76;;Rouen;Matmut
+1365;MASTER;4;13;14;;Collombelle;Chacun cherche son film
+1366;MASTER;4;13;53;;Saint berthevin;Oika beauty (Noz / futura finance)
+1369;MASTER;3;8;14;;CAEN;La Poste
+1376;MASTER;4;11;94;;Ivry-sur-Seine;PPD
+1377;MASTER;2;9;14;;Caen;Université de Caen
+1380;MASTER;5;11;63;;Clermont ferrand;centre de rééducation pour déficients visuels ( CRDV)
+1384;MASTER;5;12;14;;Caen;Frac Normandie Caen
+1385;MASTER;4;13;50;;Saint lo;Groupe Up
+1392;MASTER;5;11;44;;belligne;asso 1901
+1397;MASTER;2;9;93;;Clichy sous bois ;
+1401;MASTER;4;7;35;;Rennes;Open 
+1403;MASTER;4;4;59;;Villepinte;LG Electronics
+1407;MASTER;4;6;99;132;Londres;UBS
+1408;MASTER;4;1;29;;Plougasnou;GLOBAL SEAFOOD France
+1409;MASTER;4;6;75;;Paris;
+1411;MASTER;5;13;87;;Limoges;Aquarium du limousin 
+1412;MASTER;5;8;73;;Chambéry;
+1413;MASTER;5;11;38;;Isere;
+1414;MASTER;4;7;74;;Annecy;E2therm
+1415;MASTER;4;4;99;236;Taipei;Mindtronicai
+1416;MASTER;4;6;14;;Caen;Foncia
+1417;MASTER;2;5;61;;Flers, Argentan, L'aigle;GRETA Sud Normandie
+1425;MASTER;2;9;62;;saint-etienne-au-mont;éducation nationale
+1426;MASTER;4;4;74;;Seynod;Décathlon
+1427;MASTER;4;5;99;401;Montréal;Witbe
+1428;MASTER;4;2;59;;tourcoing;verquin confiseur
+1430;MASTER;2;10;59;;Valenciennes;Mairie de Valenciennes 
+1433;MASTER;4;7;44;;la chapelle sur erdre;ONE POINT
+1434;MASTER;4;4;59;;Lille;Tape à l'oeil
+1440;MASTER;4;6;50;;Cherbourg;BNP Paribas
+1442;MASTER;2;11;14;;caen;CHU 
+1443;MASTER;5;11;36;;roussines;Marpa de roussines
+1444;MASTER;2;11;14;;Colombelles;ccf d'Yvetot
+1445;MASTER;6;1;62;;dury;Exploitation individuelle Jean françois le prince
+1448;MASTER;2;11;41;; Blois;CH BLOIS
+1449;MASTER;4;11;61;;FLERS;clinique St Dominique
+1450;MASTER;4;2;44;;Saint-Nazaire;
+1452;MASTER;1;;61;;Alençon ;Crescendo 
+1454;MASTER;2;9;51;;Suippes;Education nationale - Collège Louis Pasteur
+1456;MASTER;5;11;51;;Reims;URI CFDT GRAND EST
+1460;MASTER;4;7;50;;Cherbourg;Asymptote
+1464;MASTER;2;9;14;;isigny sur mer;l'éducation nationale
+1471;MASTER;1;12;99;109;Berlin;Trois Petits Points
+1474;MASTER;2;;99;312;Kinshasa;Coopération Technique Belge
+1477;MASTER;5;11;61;;Alençon;ANAIS
+1480;MASTER;1;4;6;;Nice;Agent commercial 
+1482;MASTER;6;13;14;;CAEN;Cabinet d'avocat HORS-MARGERIE
+1488;MASTER;4;7;78;;Versailles;
+1492;MASTER;4;5;75;;FRANCE;S&H Group
+1493;MASTER;2;11;47;;AGEN;CENTRE HOSPITALIER AGEN NERAC
+1495;MASTER;2;9;16;;ANGOULEME;LP CHARLES COULOMB - EDUCATION NATUIONNALE
+1496;MASTER;7;5;14;;saint denis de méré;Adicinfo
+1498;MASTER;5;11;14;;herouville st clair;ahajt
+1500;MASTER;5;13;75;;Paris;FCPE
+1501;MASTER;4;;99;350;Casablanca;TWW
+1508;MASTER;1;11;14;;Epron;Profession libérale
+1510;MASTER;4;5;14;;Bayeux;SAR édition heimnal
+1512;MASTER;4;11;73;;Albertville;Domitys
+1514;MASTER;5;11;95;;Ennery;IME du Bois d'en Haut
+1519;MASTER;2;9;14;;Caen;
+1520;MASTER;2;9;59;;Lille;Éducation nationale
+1521;MASTER;4;;69;;Lyon;
+1524;MASTER;4;4;92;;Boulogne Billancourt;Catalina
+1526;MASTER;2;10;27;;Evreux;Ministere de la justice 
+1529;MASTER;4;8;34;;Montpellier;BeOpinion
+1533;MASTER;4;2;57;;Metz;ALTRAN
+1537;MASTER;4;11;88;;Epinal;CPM
+1540;MASTER;4;7;14;;Caen;presto ingeniering
+1542;MASTER;2;9;17;;Saintes ;LEGTA Georges Desclaude 
+1546;MASTER;3;4;14;;Caen;Calvados Habitat 
+1547;MASTER;4;5;75;;Paris;
+1550;MASTER;5;11;61;;Alencin;
+1551;MASTER;5;11;68;;Colmar;Association ARGILE
+1554;MASTER;5;11;41;;Aucous;apirjso
+1556;MASTER;4;7;69;;Lyon;Caduceum
+1559;MASTER;2;9;14;;Caen;Université de Caen Normandie
+1562;MASTER;2;10;67;;Strasbourg;Conseil Régional Grand Est
+1563;MASTER;4;2;29;;douarnenez;Thancerelle
+1564;MASTER;4;6;33;;BORDEAUX;HISCOX
+1565;MASTER;2;7;41;;Blois;Cerema (établissement public)
+1566;MASTER;5;1;35;;COMBOURTILLE;ASSOCIATION BLEU-BLANC-COEUR
+1569;MASTER;4;8;92;;Puteaux;Wavestone
+1570;MASTER;4;4;35;;rennes;banque 
+1572;MASTER;4;7;;;Greenore ;Openhydro 
+1574;MASTER;2;7;75;;Paris;Agence française pour la biodiversité
+1575;MASTER;4;4;44;;Nantes;Tiniloo
+1576;MASTER;5;11;44;;St-Herblain;AAFP-CSF 44
+1578;MASTER;6;6;35;;Rennes;Kpmg
+1579;MASTER;2;9;61;;Ceton;Education nationale
+1581;MASTER;4;1;17;;La brée les bains;Ferme Marine du Douhet
+1582;MASTER;4;6;50;;ST LO;
+1587;MASTER;4;8;;;;
+1588;MASTER;2;9;75;;Paris;Université Paris Diderot 
+1592;MASTER;2;10;14;;Caen;Université de Caen Normandie
+1593;MASTER;4;12;75;;Paris;
+1594;MASTER;4;4;84;;Cavaillon ;STEF
+1595;MASTER;4;6;14;;Deauville;BNP Paribas
+1596;MASTER;3;13;14;;Caen;SNCF RESEAU
+1597;MASTER;5;11;50;;SAINT LO;ADMR DE LA MANCHE
+1598;MASTER;4;6;35;;Pacé;Crédit Agricole 
+1599;MASTER;4;6;75;;Paris;HSBC
+1600;MASTER;4;6;35;;Rennes;CIC OUEST
+1601;MASTER;4;5;14;;herouville saint clair;adventiel
+1604;MASTER;4;4;92;;Paris;
+1606;MASTER;4;3;35;;Cesson-Sévigné;Clemessy
+1608;MASTER;3;4;35;;rennes ;CCI BRETAGNE
+1609;MASTER;4;2;78;;saint-quentin en yvellines;assysteme technologie
+1614;MASTER;4;6;14;;Caen;Crédit agricole normandie
+1616;MASTER;4;6;35;;Rennes;BDO
+1618;MASTER;4;6;44;;Nantes;
+1619;MASTER;3;7;29;;brest;Ifremer
+1620;MASTER;4;6;83;;Sanary sur mer;Cic
+1621;MASTER;4;7;;;Bristol;
+1622;MASTER;4;6;14;;VIRE;CIC
+1623;MASTER;4;6;92;;Neuilly;Adway 
+1624;MASTER;4;2;29;;Quimper ;Groupement d’employeurs Cornoualia 
+1626;MASTER;4;2;44;;Nantes;
+1629;MASTER;4;3;35;;RENNES;
+1630;MASTER;4;6;75;;Paris;Mazars
+1632;MASTER;2;;61;;;
+1633;MASTER;2;7;56;;Lorient;Marine nationale
+1637;MASTER;5;11;78;;Rennes;SAS HUMCITIA
+1638;MASTER;5;11;67;;Strasbourg;ABRAPA
+1639;MASTER;5;11;22;;Plestin-les-Grèves ;
+1641;MASTER;3;13;29;;Brest;La Poste
+1642;MASTER;2;9;56;;Pontivy;Education nationale
+1646;MASTER;5;11;68;;Orbey;Atre de la Vallée
+1649;MASTER;4;2;68;;Bieshein;Constellium
+1651;MASTER;2;9;57;;;
+1652;MASTER;5;11;67;;strasbourg;route nouvelle alsace
+1654;MASTER;4;6;67;;Lampertheim ;Crédit mutuel
+1658;MASTER;4;6;13;;Marseille;Solimut Mutuelle de France
+1660;MASTER;4;4;99;404;New York;
+1663;MASTER;5;11;93;;Bagnolet;Solthis
+1664;MASTER;4;13;44;;Nantes;2A Organisation
+1670;MASTER;4;4;53;;Saint Berthevin;NOZ
+1671;MASTER;4;6;49;;Angers;Financière conseil
+1682;MASTER;4;6;14;;Caen;BPI France
+1685;MASTER;4;2;72;;Connerre;PRUNIER
+1686;MASTER;4;6;14;;caen;société générale
+1689;MASTER;4;6;49;;Angers;SA
+1695;MASTER;4;11;50;;coutances;sistm50
+1696;MASTER;4;2;49;;Angers;Eolane
+1697;MASTER;4;3;53;;Saint Berthevin;Groupe Isore
+1700;MASTER;4;5;14;;caen;flamefy
+1702;MASTER;5;11;60;;agnetz;association langage et intégration
+1703;MASTER;4;6;44;;Nantes;LCL 
+1705;MASTER;4;2;35;;Guichen;NORMA AUTOLINE FRANCE
+1710;MASTER;3;1;53;;laval;Chambre d'agriculture de la Mayenne
+1712;MASTER;4;6;61;;Donfront;Soregor
+1714;MASTER;4;6;75;;Paris;BNP
+1716;MASTER;4;6;72;;Sablé sur sarthe;CIC
+1721;MASTER;4;4;44;;Saint herblain;Ikea
+1723;MASTER;4;12;44;;nantes;livee
+1724;MASTER;4;13;44;;Nantes;Nepsio conseil
+1726;MASTER;5;12;69;;Lyon;Ligue d'escrime du Lyonnais
+1728;MASTER;4;6;75;;paris;HSBC
+1729;MASTER;5;11;17;;Lagord;UDAF
+1730;MASTER;4;12;49;;CHOLET;SARL L'AUTRE USINE
+1731;MASTER;4;8;75;;Paris;Sport Intelligence
+1733;MASTER;4;7;69;;lyon;cs
+1735;MASTER;4;3;72;;Le Mans;Vinci Energies
+1736;MASTER;4;6;53;;LAVAL;BANQUE
+1737;MASTER;;13;50;;flamanville;areva 
+1739;MASTER;2;9;14;;caen;le collège le chanteur
+1740;MASTER;4;13;49;;La Pommeraye;Brangeon services
+1742;MASTER;4;6;72;;LE MANS;banque populaire
+1744;MASTER;3;9;61;;domfront;
+1747;MASTER;4;6;14;;CAEN;BNP PARIBAS
+1748;MASTER;4;2;99;132;Coventry;PSA
+1752;MASTER;3;7;67;;Niederhausbergen;Centre de Primatologie de l'Université de Strasbourg
+1754;MASTER;4;6;46;;Vayrac;Credit agricole 
+1755;MASTER;4;6;44;;Nantes;Auditia 
+1758;MASTER;2;11;35;;Rennes;Centre Hospitalier Guillaume Régnier
+1762;MASTER;2;9;61;;saint hilaire sur erre;l'éducation nationale
+1763;MASTER;4;4;41;;Chaumont sur Tharonne;Center Parcs
+1764;MASTER;5;11;41;;Montoire sur le loir;L'hostitalet
+1765;MASTER;4;13;75;;meudon sur seine;gemalto
+1767;MASTER;2;11;28;;Chartres;Education nationale
+1769;MASTER;4;4;99;134;Barcelone;Criteo
+1770;MASTER;4;6;44;;Nantes;KPMG
+1773;MASTER;7;4;76;;Le havre;
+1776;MASTER;4;11;45;;Saran;SSR la cygogne 
+1777;MASTER;4;5;14;;Un peu partout France et étranger;
+1779;MASTER;4;1;77;;;
+1784;MASTER;4;5;75;;cachan;e business information
+1786;MASTER;4;6;70;;Vesoul;CIC
+1788;MASTER;4;6;18;;bourges;credit agricole centre loire
+1795;MASTER;4;6;74;;annecy;btp banque
+1797;MASTER;4;8;14;;Colombelles;PTBG et associés
+1798;MASTER;4;6;60;;beauvais;crédit mutuel
+1799;MASTER;4;1;17;;leoville;sas landreau et fils
+1803;MASTER;2;10;14;;Caen;
+1806;MASTER;4;6;69;;Saint Priest ;Gerin distribution (RG safety)
+1807;MASTER;4;4;14;;ifs;stef transport et logistique
+1808;MASTER;4;6;75;;Paris ;Société Générale. 
+1812;MASTER;4;4;76;;ST ETIENNE DU ROUVRAY;
+1817;MASTER;4;4;14;;Caen ;
+1818;MASTER;2;10;74;;Chamonix;Communauté de communes Chamonix-Mont-Blanc
+1820;MASTER;4;13;76;;LILLEBONNE;CAUX SEINE DEVELOPPEMENT
+1823;MASTER;4;4;28;;Dreux;Création couleur
+1825;MASTER;4;13;76;;GRAND COURONNE;bolloré ports
+1826;MASTER;3;7;92;;Courbevoie;INPI
+1827;MASTER;4;6;27;;Gisors;BNP Paribas 
+1833;MASTER;4;11;41;;Blois;
+1834;MASTER;4;2;76;;Le Havre ;LHEM
+1835;MASTER;5;11;27;;evreux;camsp
+1836;MASTER;4;2;50;;condé sur vire;elle & vire
+1837;MASTER;5;11;14;;Hérouville;Comité régional handisport Normandie
+1838;MASTER;4;13;27;;Evreux;Office de Tourisme et de Commerce
+1840;MASTER;2;11;76;;Rouen;CHU de Rouen
+1842;MASTER;4;3;78;;Versailles;Leon gros
+1843;MASTER;5;11;76;;Dieppe;ATMP76
+1845;MASTER;4;2;69;;;Confidentiel
+1849;MASTER;2;9;14;;meulles;l'éducation nationale
+1851;MASTER;2;10;62;;Bénifontaine;Communauté d'agglomération de Lens Liévin
+1854;MASTER;4;4;14;;Mondeville;Carrefour
+1855;MASTER;2;9;28;;Lucé;Lycée Elsa Triolet
+1862;MASTER;4;8;76;;Bois Guillaume;MSA
+1863;MASTER;2;9;76;;St valéry en taux;éducation nationale
+1864;MASTER;5;11;38;;Grenoble;Institut gestion sociale des armées
+1867;MASTER;4;6;76;;Le Havre;BNB PARIBAS
+1868;MASTER;4;6;14;;Caen;CA Normandie
+1870;MASTER;2;9;61;;Argentan;rectorat
+1871;MASTER;4;;76;;Fecamp;
+1874;MASTER;2;9;60;;Beauvais;éducation nationale
+1876;MASTER;4;4;92;;Boulogne Billancourt ;Carlson wagonlit 
+1879;MASTER;4;2;76;;Vieux rouen sur bresle;Verreries Brosse
+1883;MASTER;4;13;76;;le havre;suez hervé osis industrial cleaning
+1886;MASTER;4;6;76;;Le Havre;Dero courtage
+1887;MASTER;4;7;75;;Paris;
+1888;MASTER;4;6;27;;;
+1890;MASTER;2;9;62;;Lens;Education nationale
+1891;MASTER;;4;76;;;
+1894;MASTER;3;4;75;;Paris;SNCF
+1897;MASTER;4;6;75;;Paris;Banque Palatine
+1899;MASTER;4;2;35;;Cesson ;Capgemini
+1900;MASTER;4;13;76;;Paluel;Apave
+1906;MASTER;5;13;14;;Hérouville Saint Clair;GRAPE (Groupement régional des associations de protection de l'environnement)
+1907;MASTER;4;2;7;;Cruas;
+1909;MASTER;2;9;61;;argentan;
+1911;MASTER;4;7;76;;Auberville la campagne;Mistras
+1914;MASTER;2;10;76;;Le Havre;EPA Hélène Keller
+1915;MASTER;4;6;76;;Le Havre ;HELVETIA compagnie assurances
+1916;MASTER;2;11;76;;Barentin;Centre hospitalier de Barentin 
+1917;MASTER;4;2;62;;Lestren;Roquette frères
+1921;MASTER;2;9;14;;Troarn;Education Nationale
+1922;MASTER;5;11;76;;Rouen;Adepep 76
+1923;MASTER;5;11;14;;FALAISE;APAEI des PAYS D'AUGE et de FALAISE
+1924;MASTER;4;13;27;;Vernont;Plasticomnium
+1925;MASTER;4;3;14;;Caen;Vinci
+1927;MASTER;4;2;27;;RUGLES;
+1941;MASTER;3;10;27;;Evreux;Caf
+1942;MASTER;2;9;27;;Pontaudemer;Education nationale
+1943;MASTER;2;9;50;;Granville;Ministère de l'éducation
+1945;MASTER;4;7;78;;villiers saint frederic;assystem
+1947;MASTER;5;11;41;;Blois;APAJH 41
+1948;MASTER;4;2;77;;Réau;
+1949;MASTER;4;11;61;;alençon;atmpo
+1951;MASTER;4;12;14;;bayeux;credit agricole normandie
+1955;MASTER;4;11;1;;Hauteville Lompnes;5Santé 
+1958;MASTER;4;13;92;;Meudon;Sopra Steria
+1959;MASTER;4;2;93;;La Courneuve ;DAPE 74 -->c'est une filiale de BIC 
+1963;MASTER;2;7;35;;Rennes;Agrocampus Ouest
+1964;MASTER;4;13;75;;Paris;Green bureau
+1965;MASTER;2;9;92;;Clichy;Éducation nationale 
+1966;MASTER;4;2;75;;la garenne colombe;TF1
+1967;MASTER;4;13;75;;paris;gemalto
+1968;MASTER;4;7;78;;guyancourt;Matis technologies
+1974;MASTER;2;11;56;;Vannes ;Ccas ville de vannes
+1976;MASTER;2;13;94;;;L'INA
+1977;MASTER;2;11;14;;Caen ;Hopital Saint Martin
+1983;MASTER;4;2;78;;Le Pecq;Snap-on Business Solutions
+1991;MASTER;4;2;78;;velizy;D'assault système
+1992;MASTER;2;11;14;;Vire ;Hopital
+1994;MASTER;5;13;14;;Bayeux;Mission locale de Bayeux
+1995;MASTER;4;11;92;;Boulogne-Billancourt;Medtronic
+1996;MASTER;4;6;92;;Paris;DIPC TECHNOLOGY
+2000;MASTER;4;4;75;;Paris;
+2001;MASTER;4;4;76;;Sotteville les roun;VTNI
+2002;MASTER;4;11;91;;Gentilly;Sanofi
+2003;MASTER;2;7;94;;alfortville;Greta
+2004;MASTER;2;9;61;;Moulins-la-Marche;Education nationale
+2005;MASTER;5;13;14;;caen;cchambre regional de'économie social et solidaire de Normandie
+2007;MASTER;4;13;92;;La défense;Engie cofely
+2009;MASTER;5;11;75;;Paris;
+2011;MASTER;5;13;75;;Paris;France terre d'asile
+2013;MASTER;4;2;31;;Toulouse;Evotec
+2015;MASTER;4;12;75;;Paris;Big band story
+2016;MASTER;5;1;63;;LEMPDES;FREDON AUVERGNE
+2021;MASTER;4;7;14;;Balleroy;Zoetis
+2022;MASTER;5;11;91;;France 91;
+2023;MASTER;4;12;75;;Paris;DPU
+2024;MASTER;2;10;14;;CAEN;DDCS
+2032;MASTER;2;11;94;;SAINT MANDE;HIA BEGIN
+2036;MASTER;5;13;49;;Angers;Maison de l'Europe Angers & Maine-et-Loire
+2040;MASTER;4;13;75;;paris;heetch
+2041;MASTER;4;;92;;Courbevoie La Défense ;CGI France
+2042;MASTER;4;4;69;;LYON;Konimpex
+2043;MASTER;5;13;97;;Fort-de-France;Ligue de Martinique d'Athlétisme
+2044;MASTER;4;3;94;;chevilly larue;bottes fondation
+2045;MASTER;4;13;75;;Paris;Mobidiag
+2057;MASTER;2;9;50;;saint-lô;école le bon sauveur 
+2058;MASTER;2;1;41;;montoire sur le loir;minstère de l'agriculture
+2060;MASTER;4;6;27;;vernon;aviva
+2062;MASTER;4;4;76;;Ambrumesnil;Les fermes d'ici
