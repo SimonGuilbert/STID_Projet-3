@@ -8,9 +8,14 @@ with open('dataBrutes_LP.csv', newline='') as csvfile:
     for row in spamreader :
         requete = "INSERT INTO LP VALUES("
         for i in range(8):
-              requete += "\""+row[i]+"\","
+            valeur=row[i].strip()
+            if valeur=="":
+                requete += "NULL,"
+            else:
+                requete += "\""+row[i].strip()+"\","
         requete = requete[:-1] + ")"
-        c.execute(requete)
+        #c.execute(requete)
+        print(requete)
 conn.commit()
 conn.close()
 
