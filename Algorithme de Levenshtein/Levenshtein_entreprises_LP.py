@@ -20,7 +20,11 @@ c_LP = conn.cursor()
 for row_LP in c_LP.execute('SELECT * FROM LP WHERE q6_14_6 IS NOT NULL'):
     c_sirene = conn.cursor()
     distanceMinimum=1000
-    requete = 'SELECT * FROM SIRENE WHERE CODE_INSEE = \"' + str(row_LP[8]) + '\"'
+    NIC = ""
+    NOM_ETAB = ""
+    APET700 = ""
+    SIREN = ""
+    requete = 'SELECT * FROM SIRENE WHERE CODE_INSEE = \"' + str(row_LP[8]) + '\"' + 'AND DEPET = \"' + str(row_LP[4]) + '\"'
     for row_sirene in c_sirene.execute(requete):
 
         nom_etablissement_LP = row_LP[7].lower()
@@ -72,11 +76,11 @@ for row_LP in c_LP.execute('SELECT * FROM LP WHERE q6_14_6 IS NOT NULL'):
             NOM_ETAB = row_sirene[8]
             APET700 = row_sirene[6]
 
-    if distanceMinimum < 3:
-        requete = 'UPDATE LP SET SIREN = \"' + SIREN + '\", '
-        requete += 'NIC = \"' + NIC + '\", NOM_ETAB = \"' + NOM_ETAB + '\", APET700 = \"' + APET700 + '\"'
-        #print(requete)
-        c_sirene.execute(requete)
+        if distanceMinimum < 3:
+            requete = 'UPDATE LP SET SIREN = \"' + SIREN + '\", '
+            requete += 'NIC = \"' + NIC + '\", NOM_ETAB = \"' + NOM_ETAB + '\", APET700 = \"' + APET700 + '\"'
+            print(requete)
+            c_sirene.execute(requete)
      
 conn.commit()
 conn.close()
