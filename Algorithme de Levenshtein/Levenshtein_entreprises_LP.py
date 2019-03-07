@@ -16,7 +16,7 @@ import sqlite3
 conn = sqlite3.connect('data.db')
 c_LP = conn.cursor()
 
-
+seuil=0.1
 for row_LP in c_LP.execute('SELECT * FROM LP WHERE q6_14_6 IS NOT NULL'):
     c_sirene = conn.cursor()
     distanceMinimum=1000
@@ -76,11 +76,11 @@ for row_LP in c_LP.execute('SELECT * FROM LP WHERE q6_14_6 IS NOT NULL'):
             NOM_ETAB = row_sirene[8]
             APET700 = row_sirene[6]
 
-        if distanceMinimum < 3:
+        if distanceMinimum < seuil*len(row_lp[7]):
             requete = 'UPDATE LP SET SIREN = \"' + SIREN + '\", '
-            requete += 'NIC = \"' + NIC + '\", NOM_ETAB = \"' + NOM_ETAB + '\", APET700 = \"' + APET700 + '\"'
+            requete += 'NIC = \"' + NIC + '\", NOM_ETAB = \"' + row_sirene[2] + '\", APET700 = \"' + APET700 + '\"'
             print(requete)
-            c_sirene.execute(requete)
+            #c_sirene.execute(requete)
      
 conn.commit()
 conn.close()
