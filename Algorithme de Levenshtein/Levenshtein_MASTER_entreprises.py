@@ -22,7 +22,7 @@ for row_MASTER in c_MASTER.execute('SELECT * FROM MASTER WHERE q6_14_6 IS NOT NU
     c_sirene = conn.cursor()
     distanceMinimum=1000
    
-    if row_MASTER[8] not in [75056,69123,13055]:
+    if row_MASTER[8] not in ["75056","69123","13055"]:
         requete = 'SELECT * FROM SIRENE WHERE CODE_INSEE = \"' + str(row_MASTER[8]) + '\"'
     else:
         requete = 'SELECT * FROM SIRENE WHERE DEPET = \"' + str(row_MASTER[4]) + '\"'
