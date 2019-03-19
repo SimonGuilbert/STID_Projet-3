@@ -22,7 +22,7 @@ for row_LP in c_LP.execute('SELECT * FROM LP WHERE q6_14_6 IS NOT NULL AND CODE_
     c_sirene = conn.cursor()
     distanceMinimum=1000
    
-    if row_LP[8] not in [75056]:
+    if row_LP[8] not in ["75056"]:
         requete = 'SELECT * FROM SIRENE WHERE CODE_INSEE = \"' + str(row_LP[8]) + '\"'
     else:
         requete = 'SELECT * FROM SIRENE WHERE DEPET = \"' + str(row_LP[4]) + '\"'
