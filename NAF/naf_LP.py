@@ -6,7 +6,7 @@ c_LP = conn.cursor()
 
 for row_LP in c_LP.execute('SELECT * FROM LP WHERE APET700 IS NOT NULL'):
     c_naf = conn.cursor()
-    requete = 'SELECT * FROM NAF where APET700 = \'' + row_LP[15] + '\''
+    requete = 'SELECT * FROM NAF where NIV5 = \'' + row_LP[15] + '\''
     for row_naf in c_naf.execute(requete):
         requete = 'UPDATE LP SET NIV1 = \'' + row_naf[1] + '\' WHERE CODE = \'' + row_LP[0] + '\''
         print(requete)
